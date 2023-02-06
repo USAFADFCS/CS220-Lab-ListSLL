@@ -116,16 +116,16 @@ void changeElementLinkedList(LinkedList* list, int position, double newElement);
  */
 int findElementLinkedList(LinkedList* list, double element);
 
-/** insertSortLinkedList()
- * @brief - Perform an insertion sort on a LinkedList
+/** selSortLinkedList()
+ * @brief - Perform an selection sort on a LinkedList
  * @param list - the LinkedList to sort
  * @pre    - unmodified linked list
  * @post   - sorted linked list
  */
 void selSortLinkedList(LinkedList* list);
 
-/** selSortLinkedList()
- * @brief - Perform an selection sort on a LinkedList
+/** insertSortLinkedList()
+ * @brief - Perform an insertion sort on a LinkedList
  * @param list - the LinkedList to sort
  * @pre    - unmodified linked list
  * @post   - sorted linked list
