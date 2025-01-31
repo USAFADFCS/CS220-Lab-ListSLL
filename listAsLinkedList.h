@@ -9,7 +9,6 @@
 
 #ifndef LISTASLINKEDLIST_H
 #define LISTASLINKEDLIST_H
-#include <stdbool.h>
 
 // Define a node of the linked list
 typedef struct node {
